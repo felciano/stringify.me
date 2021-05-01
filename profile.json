@@ -1,15 +1,15 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
+		"name": "felciano",
+		"label": "Founder",
 		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://reactdude.com/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>Java</b>, <b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 16 years experience in software development and 2 years in Nanotechnology."
+		"email": "noreply@gmail.com",
+		"phone": "(555) 555-5555",
+		"website": "https://ramonfelciano.com/",
+		"twitter": "https://twitter.com/felciano",
+		"facebook": "https://www.facebook.com/ramonfelciano",
+		"github": "http://github.com/felciano",
+		"summary": "I’m a Founder at Ingenuity Systems, acquired by QIAGEN, living in San Francisco, California."
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
